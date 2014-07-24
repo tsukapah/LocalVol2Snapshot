@@ -1,4 +1,4 @@
-##!/bin/bash
+#!/bin/bash
 
 # Usage:LocalVol2Snapshot.sh /dev/sda1 "message"
 
